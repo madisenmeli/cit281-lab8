@@ -1,2 +1,2 @@
 # cit281-lab8
-lab 8
+Lab 8: fastify.get, also learned object.keys, use links to get different amounts of photos.
